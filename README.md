@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Getting started
 
-Run `npm i` to install all the dependencies. Then, follow the instructions inside [Development server](#development-server).
+Run `npm i` to install all the dependencies. Then, follow the instructions inside the [Development server](#development-server).
 
 ## Development server
 
