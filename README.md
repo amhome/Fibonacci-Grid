@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Screenshot
 
-![Fibonacci](https://raw.githubusercontent.com/triggergroup/FibonacciGrid/main/Screenshots/localhost_4200_.png)
+![Fibonacci](Screenshots/localhost_4200_.png)
 
 ## Getting started
 
