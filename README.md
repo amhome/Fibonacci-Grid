@@ -7,6 +7,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ![Fibonacci](https://raw.githubusercontent.com/triggergroup/FibonacciGrid/main/Screenshots/localhost_4200_.png)
 
+## Getting started
+
+Run `npm i` to install all the dependencies. Then, follow the instructions inside Development server.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
