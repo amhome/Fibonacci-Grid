@@ -1,5 +1,6 @@
 # NumericGrid
 
+A grid of augmentable numbers that highlight the occurrence of the Fibonacci sequence by a window's size. The default windows's size is set to 5.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
 
 ## Development server
